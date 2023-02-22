@@ -16,7 +16,7 @@ The following image demonstrates the web page's appearance:
 
 ## Links
 
-Deployed Application:
+Deployed Application: [isabelkvaughan.github.io/isabel-urban-octo-telegram/](https://isabelkvaughan.github.io/isabel-urban-octo-telegram/)
 
 GitHub Repository: [github.com/isabelkvaughan/isabel-urban-octo-telegram](https://github.com/isabelkvaughan/isabel-urban-octo-telegram)
 
